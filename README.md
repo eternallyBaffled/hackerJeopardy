@@ -45,7 +45,7 @@ To play the game you need some players, press the 'add player' at the bottom lef
 ### Or teams
 
 If you plan to play with teams and want to randomly pick some teams from a large list. Just create a file with the .teams extention on a removable drive with all team names seperated by a newline.
-When the 'Team Selector' is selected, you are able to pick some ranom team names from the list. When returning to the home screen the teams are added as player names.
+When the 'Team Selector' is selected, you are able to pick some random team names from the list. When returning to the home screen the teams are added as player names.
 
 ### Ready to start!
 
