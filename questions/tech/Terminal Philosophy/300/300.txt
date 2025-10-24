@@ -1,0 +1,5 @@
+This linux command unpacks file.tar in the same directory.
+
+tar -xf file.tar
+
+(tar --extract --file file.tar)

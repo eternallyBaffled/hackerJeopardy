@@ -1,0 +1,3 @@
+This linux command sets permissions so that the owner can read, write, and execute; the group can only read; and others have no access at all.
+
+What is chmod 740 <filename>

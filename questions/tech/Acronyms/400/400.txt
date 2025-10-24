@@ -1,0 +1,3 @@
+This is where the portmanteau CODEC stands for in an audio/video context.
+
+Code(r) / Decode(r)

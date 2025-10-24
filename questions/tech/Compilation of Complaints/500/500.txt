@@ -1,0 +1,3 @@
+Bareword "hello" not allowed while "strict subs" in use.
+
+Perl

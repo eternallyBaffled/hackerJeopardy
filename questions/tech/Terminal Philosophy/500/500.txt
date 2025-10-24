@@ -1,0 +1,3 @@
+Using OpenSSL, this command generates a new 2048-bit RSA private key and writes it to a file named mykey.pem
+
+openssl genrsa -out mykey.pem 2048

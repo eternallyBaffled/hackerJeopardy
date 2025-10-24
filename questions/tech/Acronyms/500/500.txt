@@ -1,0 +1,3 @@
+In storage, this is what the acronym RAID stands for.
+
+Redundant Array of Independent Disks.
