@@ -1,0 +1,5 @@
+This file format is a commonly used method of lossy compression for digital images introduced in 1992 by a committee of joint experts.
+
+
+
+JPEG (Joint Photographic Experts Group)

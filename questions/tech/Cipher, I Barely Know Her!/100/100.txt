@@ -1,0 +1,5 @@
+As one of the most basic encryption techniques, this cipher works by replacing each letter in the original plaintext message with a different letter based off a fixed shift of the alphabet.
+
+
+
+Caesar Cipher

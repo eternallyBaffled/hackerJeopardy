@@ -1,0 +1,5 @@
+This protocol assigns IP addresses to network endpoints so they can communicate with other network endpoints over IP.
+
+
+
+Dynamic Host Configuration Protocol (DHCP)

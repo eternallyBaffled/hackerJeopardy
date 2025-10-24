@@ -1,0 +1,5 @@
+This free and open source tool is a web scanner that scans and tests several web servers for identifying software that is outdated, dangerous CGIs or files, and other problems. It is capable of performing server-specific as well as generic checks and prints by capturing the received cookies.
+
+
+
+What is Nikto?

@@ -1,0 +1,5 @@
+This type of malware or exploit is unknown to the vendor and has not yet been patched.
+
+
+
+Zero-Day

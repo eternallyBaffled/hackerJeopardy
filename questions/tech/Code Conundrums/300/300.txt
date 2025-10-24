@@ -1,0 +1,5 @@
+This type of API uses GET, PUT, POST and DELETE.
+
+
+
+What is REST(ful) ?

@@ -1,0 +1,5 @@
+This component works like an electromechanical switch which is often used to switch a high voltage circuit using a low voltage trigger.
+
+
+
+What is a Relay?

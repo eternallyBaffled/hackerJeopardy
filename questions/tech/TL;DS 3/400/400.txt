@@ -1,0 +1,7 @@
+Instead of websites, this TLD is used mostly for technical infrastructure, like reverse DNS lookups.
+
+
+
+
+
+.ARPA

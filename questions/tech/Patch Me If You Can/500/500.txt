@@ -1,0 +1,5 @@
+This stealthy type of malware is designed to hide its presence and maintain persistent access to a system, even after re-installing it.
+
+
+
+Rootkit

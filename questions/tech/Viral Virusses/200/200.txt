@@ -1,0 +1,5 @@
+This worm mass-spread using microsoft outlook by sending itself to all people in the addressbook using the same subject as what it is named after.
+
+
+
+What is “I love you” or “Love Bug”?

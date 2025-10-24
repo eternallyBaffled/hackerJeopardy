@@ -1,0 +1,3 @@
+This device looks like an ordinary USB flash drive, but is actually a small computer that can very quickly execute a pre-programmed series of commands on a computer.
+
+USB Rubber Ducky

@@ -1,0 +1,5 @@
+This file format developed by Connectix is used for storing the disks of virtual machines and has a limit of 2040 GB.
+
+
+
+VHD (Virtual Hard Drive)

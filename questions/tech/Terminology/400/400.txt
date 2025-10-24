@@ -1,0 +1,5 @@
+This attack involves injecting malicious code into a website, which then gets executed by unsuspecting visitors.
+
+
+
+XSS (Cross Site Scripting)

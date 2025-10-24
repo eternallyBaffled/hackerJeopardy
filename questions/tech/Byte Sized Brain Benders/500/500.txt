@@ -1,0 +1,5 @@
+This is what we call a half-byte (4 bits)
+
+
+
+What is a nibble?

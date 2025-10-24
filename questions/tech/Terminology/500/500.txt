@@ -1,0 +1,5 @@
+In this type of cyberattack, attackers use lists of compromised user credentials to log in to systems.
+
+
+
+Credential Stuffing

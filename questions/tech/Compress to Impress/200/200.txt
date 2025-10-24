@@ -1,0 +1,5 @@
+This file compression format was developed in 1993 by Russian software engineer Eugene Roshal and supports error correction and the creation of a "multi-volume archive", where one archive can be split up into multiple files.
+
+
+
+RAR

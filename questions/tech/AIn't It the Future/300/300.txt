@@ -1,0 +1,5 @@
+This AI model developped by OpenAI generates highly detailed images from text prompts.
+
+
+
+DALL-E

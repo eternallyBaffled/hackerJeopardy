@@ -1,0 +1,5 @@
+This command forcefully kills a process by name, immediately.
+
+
+
+What is taskkill /f /im <process>?

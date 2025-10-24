@@ -1,0 +1,5 @@
+This mass-mailing worm that uses multiple methods to spread itself, became in 2001 the Internet's most widespread worm within 22 minutes. The name of the virus is the reverse spelling of a computer term.
+
+
+
+What is Nimda?

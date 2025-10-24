@@ -1,0 +1,5 @@
+This self-replicating malware spreads by exploiting vulnerabilities without user interaction.
+
+
+
+Worm

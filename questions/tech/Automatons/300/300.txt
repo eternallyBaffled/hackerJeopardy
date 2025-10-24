@@ -1,0 +1,7 @@
+This companion robot / customer assistant made by softbank robotics (formerly Aldebaran) is capable of recognising and responding to human emotions.
+
+
+
+
+
+Pepper

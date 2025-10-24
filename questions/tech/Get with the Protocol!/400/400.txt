@@ -1,0 +1,5 @@
+This protocol is a client-server protocol, with which a client requests a file and the server supplies it. It runs over TCP/IP and requires a command channel and a data channel to communicate and exchange files.
+
+
+
+File Transfer Protocol (FTP)

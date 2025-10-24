@@ -1,0 +1,5 @@
+This semiconductor only allows current to pass in one direction and can be used to change AC to DC.
+
+
+
+What is a diode?

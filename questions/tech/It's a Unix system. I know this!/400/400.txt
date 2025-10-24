@@ -1,0 +1,6 @@
+The tool 'tar' was originally developed to operate these kinds of devices.
+
+
+
+Tape drives (hence the Tape ARchive file extention)
+

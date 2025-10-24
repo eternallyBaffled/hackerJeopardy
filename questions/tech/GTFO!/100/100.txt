@@ -1,0 +1,5 @@
+In a bash shell, this key combination will interrupt a command mid-run
+
+
+
+What is CTRL-C?

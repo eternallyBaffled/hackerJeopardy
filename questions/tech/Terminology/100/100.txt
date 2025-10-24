@@ -1,0 +1,5 @@
+This type of attack involves overwhelming a network or website with traffic to make it unavailable to users
+
+
+
+DDOS Attack ((Distributed) Denial Of Service)

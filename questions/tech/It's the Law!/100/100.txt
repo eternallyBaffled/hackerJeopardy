@@ -1,0 +1,5 @@
+E = I * R
+
+
+
+Ohm’s Law

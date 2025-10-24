@@ -1,0 +1,5 @@
+This animal is used for the PHP programming language mascot.
+
+
+
+What is an elephant?

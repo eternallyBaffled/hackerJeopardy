@@ -1,0 +1,5 @@
+This is the amount of bits in a byte.
+
+
+
+What is 8?

@@ -1,0 +1,5 @@
+This windows shortcut opens the taskmanager
+
+
+
+What is CTRL-SHIFT-ESC?

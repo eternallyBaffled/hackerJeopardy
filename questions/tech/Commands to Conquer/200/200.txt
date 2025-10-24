@@ -1,0 +1,5 @@
+This linux command shows the last 10 lines of a file.
+
+
+
+What is tail?

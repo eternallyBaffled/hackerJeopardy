@@ -1,0 +1,5 @@
+This linux command gives you access to the manuals of many if not most linux commands.
+
+
+
+What is ‘Man’ ?

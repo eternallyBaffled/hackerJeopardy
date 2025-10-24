@@ -1,0 +1,5 @@
+This is the most efficient datatype to store the value -140 in C++.
+
+
+
+What is (signed) char (1 byte) ?

@@ -1,0 +1,5 @@
+At any node in an electrical circuit, the sum of currents flowing into that node is equal to the sum of currents flowing out of that node.
+
+
+
+Kirchhoff's Current Law, or First Law

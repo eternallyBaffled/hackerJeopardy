@@ -1,0 +1,5 @@
+This device by Great Scott Gadgets is a wide band software defined radio (SDR), half-duplex transceiver.
+
+
+
+HackRF

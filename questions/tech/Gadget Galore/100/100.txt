@@ -1,0 +1,3 @@
+This portable multi-tool in a toy-like body loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. It's fully open-source and customizable, so you can extend it in whatever way you like.
+
+Flipper Zero

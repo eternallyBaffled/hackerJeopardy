@@ -1,0 +1,5 @@
+This virtual assistant on apple’s Iphone devices uses voice queries, gesture based control, focus-tracking and a natural-language user interface to answer questions.
+
+
+
+What is Siri?

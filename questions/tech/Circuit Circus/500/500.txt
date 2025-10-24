@@ -1,0 +1,5 @@
+This type of diode can be used to create a small current of electricity by shining a light on it even tho' it’s not it’s primary function.
+
+
+
+What is an LED? (photodiode would also be correct, but it’s primary function is to capture light).

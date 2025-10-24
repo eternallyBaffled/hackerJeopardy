@@ -1,0 +1,5 @@
+This system allows short-distance one-to-many bidirectional voice communication among individuals around 27 MHz and does not require a license to operate.
+
+
+
+CB (Citizens Band)

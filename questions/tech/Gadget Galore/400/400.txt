@@ -1,0 +1,3 @@
+This fruity device is designed for WiFi pentesting and can be used as a rogue access point (AP) or to conduct man in the middle (MitM) attacks.
+
+Wifi Pineapple

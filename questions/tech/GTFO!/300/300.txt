@@ -1,0 +1,5 @@
+This is what the command “shutdown -s” does in windows.
+
+
+
+What is shutdown? (trick question, shutdown -r is for reboots :))

@@ -1,0 +1,5 @@
+This windows shortcut hides all windows and shows the desktop, pressing it again will re-open all windows.
+
+
+
+What is WIN-D ?

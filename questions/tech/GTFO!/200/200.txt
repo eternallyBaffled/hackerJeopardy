@@ -1,0 +1,6 @@
+This code command jumps out of a loop in the c programming language.
+
+
+
+What is Break?
+

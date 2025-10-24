@@ -1,0 +1,5 @@
+This protocol is responsible for addressing host interfaces, encapsulating data into datagrams (including fragmentation and reassembly) and routing datagrams from a source host interface to a destination host interface across one or more networks.
+
+
+
+Internet Protocol (IP)

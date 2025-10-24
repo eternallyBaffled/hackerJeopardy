@@ -1,0 +1,5 @@
+This protocol translates IP addresses to MAC addresses and vice versa so LAN endpoints can communicate with one another.
+
+
+
+Address Resolution Protocol (ARP)

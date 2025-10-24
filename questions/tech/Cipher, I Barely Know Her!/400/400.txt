@@ -1,0 +1,5 @@
+This cipher uses a table consisting of different shifts in sequence and a key to encode a message across several rows of the table. By using different shifts for different characters in the message, this cipher makes decoding the ciphertext using frequency analysis much more difficult.
+
+
+
+Vigenère Cipher

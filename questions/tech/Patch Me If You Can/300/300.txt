@@ -1,0 +1,5 @@
+This malware records every keystroke made by a user to capture sensitive information.
+
+
+
+Keylogger

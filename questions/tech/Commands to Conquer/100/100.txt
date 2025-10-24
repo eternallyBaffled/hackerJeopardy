@@ -1,0 +1,5 @@
+This windows command tells us the current user.
+
+
+
+What is whoami?

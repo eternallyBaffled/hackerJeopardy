@@ -1,0 +1,5 @@
+This SQL keyword returns only one of each value.
+
+ 
+
+What is DISTINCT?

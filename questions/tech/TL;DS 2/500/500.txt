@@ -1,0 +1,9 @@
+This is the longest Top-Level Domain (TLD) length permissible by DNS standards.
+
+
+
+
+
+63
+
+#trivia The longest generic TLD (not representing a country) is 18 characters long - .northwesternmutual.

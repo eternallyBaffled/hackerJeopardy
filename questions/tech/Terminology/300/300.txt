@@ -1,0 +1,5 @@
+This attack method manipulates a database query to execute unintended commands.
+
+
+
+SQL Injection

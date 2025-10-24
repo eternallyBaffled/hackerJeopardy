@@ -1,0 +1,5 @@
+This tool is often used to map out a network or scan a specific host for ports.
+
+
+
+What is NMAP?

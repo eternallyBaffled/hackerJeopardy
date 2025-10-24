@@ -1,0 +1,5 @@
+These are the names of the 4 ghosts in pac-man.
+
+
+
+Inky, Blinky, Pinky and Clyde

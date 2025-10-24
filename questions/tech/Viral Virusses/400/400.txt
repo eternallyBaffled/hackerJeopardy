@@ -1,0 +1,5 @@
+This nasty ransomeware propagated using the EthernalBlue exploit and caused over 300 000 infections in 4 days. The infections stopped after a killswitch domain that was hardcoded in the software was seized by the authorities.
+
+
+
+What is WannaCry? (wanna-anything goes)

@@ -1,0 +1,5 @@
+This USB Device has been modified to deliver an electrical surge that can damage or destroy hardware when inserted.
+
+
+
+USBKilll(er)

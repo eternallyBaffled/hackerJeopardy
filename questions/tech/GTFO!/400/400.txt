@@ -1,0 +1,5 @@
+This sequence of keys quits VI without saving.
+
+
+
+What is <esc> : q !

@@ -1,0 +1,5 @@
+This word is used to declare a variable in Javascript.
+
+ 
+
+What is VAR / LET ?

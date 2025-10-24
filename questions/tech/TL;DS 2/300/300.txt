@@ -1,0 +1,9 @@
+This is the country associated with the .CN domain.
+
+
+
+
+
+China
+
+#Trivia: for each province is a second-level domain (ccSLD) available. e.g: .bj.cn for beijing.

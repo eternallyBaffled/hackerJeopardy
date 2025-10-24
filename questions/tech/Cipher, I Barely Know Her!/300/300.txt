@@ -1,0 +1,5 @@
+Rather than switch out letters, this cipher placed letters on a grid and used the adjoining angles made by the grid’s lines, paired with a series of dots, to represent the letter contained within it.
+
+
+
+Pigpen (freemason) cipher

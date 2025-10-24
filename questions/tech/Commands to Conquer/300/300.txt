@@ -1,0 +1,4 @@
+This linux command prints the system information (kernel version etc…)
+
+What is uname (-a) ?
+

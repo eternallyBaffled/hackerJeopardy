@@ -1,0 +1,5 @@
+This file format published by the International Digital Publishing Forum (IDPF) became an official standard in September 2007, superseding the older Open eBook (OEB) standard.
+
+
+
+EPUB (Electronic PUBlication)

@@ -1,0 +1,5 @@
+This tool is often used to rapidly and automatically scan a target for known vulnerabilities and exploits.
+
+
+
+What is MetaSploit?

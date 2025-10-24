@@ -1,0 +1,12 @@
+“No need to sanitize,” they said with a grin,
+“Just trust the input — the risk is thin.”
+But Bobby arrived with a quote and a dash,
+And suddenly users were gone in a flash.
+The schema wept into XML,
+And backups were three weeks old (oh well).
+Now every form field wears body armor,
+And Bobby’s enrolled as a junior charmer.
+
+
+
+SQL Injection

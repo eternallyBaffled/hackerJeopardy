@@ -1,0 +1,5 @@
+This component limits the amount of current flowing through it.
+
+
+
+What is a resistor?

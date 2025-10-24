@@ -1,0 +1,5 @@
+This component stores an electrical charge and can be used as a filter to block DC but allow AC to pass.
+
+
+
+What is a capacitor?

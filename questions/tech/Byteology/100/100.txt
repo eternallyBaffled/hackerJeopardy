@@ -1,0 +1,7 @@
+Critics argue that this software development methodology has evolved into something of a workplace religion. Complete with daily rituals, insider jargon, and near-evangelical practitioners. Despite its original intent to promote flexibility and collaboration, it’s often dogmatically applied, with teams adhering to its "principles" even when they hinder actual progress.
+
+
+
+Agile (Lean could also be seen as correct)
+
+(scrum is part of Agile, ‘DevOps’ is wrong)

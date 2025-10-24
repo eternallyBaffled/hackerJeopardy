@@ -1,0 +1,3 @@
+This is the Hexadecimal value for the color red
+
+What is #FF0000?

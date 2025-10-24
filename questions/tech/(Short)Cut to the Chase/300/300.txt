@@ -1,0 +1,5 @@
+This linux shortcut switches to virtual console number 1.
+
+
+
+What is CTRL-ALT-F1 ?

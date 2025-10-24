@@ -1,0 +1,5 @@
+This acronym is used to describe the intelligence derived from electronic signals and systems used by foreign targets.
+
+
+
+SIGINT

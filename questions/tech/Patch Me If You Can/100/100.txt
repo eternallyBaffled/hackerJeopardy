@@ -1,0 +1,5 @@
+This type of malware disguises itself as legitimate software to trick users into installing it.
+
+
+
+Trojan Horse

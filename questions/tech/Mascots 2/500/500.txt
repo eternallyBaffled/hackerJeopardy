@@ -1,0 +1,9 @@
+This is the name of the mySQL dolphin mascot.
+
+
+
+What is Sakila?
+
+
+
+#TRIVIA: mySQL is named after co-founder Monty Widenius's daughter, My Widenius.

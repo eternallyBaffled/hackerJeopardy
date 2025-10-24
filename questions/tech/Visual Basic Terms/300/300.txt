@@ -1,0 +1,3 @@
+‘Port Scan’
+
+A sailor looking at port warehouses trough binnoculars. the Port warehouses are numbered 21, 80, 443,…
